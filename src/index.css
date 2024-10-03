@@ -32,4 +32,5 @@ body{
 
 .game{
   display: flex;
+  margin-bottom: 1rem;
 }

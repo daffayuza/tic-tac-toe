@@ -86,6 +86,9 @@ export default function Game() {
           <ol>{moves}</ol>
         </div>
       </div>
+      <div>
+        LATIHAN REBASE
+      </div>
     </>
   );
 }
